@@ -1,7 +1,8 @@
 <?php
-echo"Hello";
+echo"Helloo";
 echo"<br>";
-$str = "Visit W3Schools";
+$str = "Visitt W3Schools";
 $pattern = "/w3schools/i";
 echo preg_match($pattern, $str); 
 ?>
+
